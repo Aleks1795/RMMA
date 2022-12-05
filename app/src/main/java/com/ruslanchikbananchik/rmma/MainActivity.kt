@@ -16,9 +16,4 @@ class MainActivity : AppCompatActivity() {
 
         binding.helloAndroid.text = getString(R.string.hello_android, Build.VERSION.RELEASE)
     }
-
-
-
-
-
 }
