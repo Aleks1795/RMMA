@@ -6,7 +6,7 @@ import retrofit2.Retrofit
 import retrofit2.create
 
 object Common {
-    private val BASE_URL = "https://meowfacts.herokuapp.com/"
+    private const val BASE_URL = "https://meowfacts.herokuapp.com/"
     val retrofitService: RetrofitServices
-        get() = RetrofitClient.getClient(BASE_URL).create(RetrofitServices::class.java)
+         = RetrofitClient.getClient(BASE_URL).create(RetrofitServices::class.java)
 }

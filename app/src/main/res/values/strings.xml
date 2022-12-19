@@ -1,6 +1,4 @@
 <resources>
     <string name="app_name">RMMA</string>
-    <string name="catFact_1">Cat Fact #1: %s</string>
-    <string name="catFact_2">Cat Fact #2: %s</string>
-    <string name="catFact_3">Cat Fact #3: %s</string>
+    <string name="catFact_1">Cat Fact #%d: %s</string>
 </resources>
