@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">RMMA</string>
-    <string name="hello_android">Hello Android! Version: %s</string>
+    <string name="catFact_1">Cat Fact #%d: %s</string>
 </resources>
